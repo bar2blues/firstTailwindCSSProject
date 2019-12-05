@@ -7,7 +7,7 @@ For this project do use de documentation in the official site tailwindCSS and al
 
 Command install tailwindCSS console:
 
- npm init -y
- npm install tailwindcss postcss-cli autoprefixer
- npx tailwind init
- npm run build
+ npm init -y  
+ npm install tailwindcss postcss-cli autoprefixer  
+ npx tailwind init  
+ npm run build  
